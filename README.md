@@ -1,18 +1,19 @@
-# OnlyLTE - sieć pod kontrola
+# OnlyLTE - sieć pod kontrolą
 
 ### Jessica Tkacz, Tomasz Wilk
   Keywords:  LTE, mobile network ,hspa+, saving money
 
 ## Streszczenie: 
-  Aplikacja pozwala na kontrole nad siecia w telefonie komorkowym. Jej zadaniem jest zezwolić na ruch sieciowy TYLKO wtedy gdy bedzie dostepna siec LTE. Aplikacja bedzie przydatna dla osob posiadajacych pakiet darmowego oraz nielimitowanego LTE, którzy nie chca by przypadkowa utrata zasiegu podczas korzystania z internetu, obciazala pakiet transferu danych (HSPA+) lub co gorsze, konto uzytkownika bez pakietu.
+  Aplikacja pozwala na kontrolę nad siecią w telefonie komorkowym. Jej zadaniem jest zezwolić na ruch sieciowy TYLKO wtedy gdy będzie dostepna sieć LTE. Aplikacja będzie przydatna dla osób posiadajacych pakiet darmowego oraz nielimitowanego LTE, którzy nie chcą by przypadkowa utrata zasiegu podczas korzystania z internetu, obciążała pakiet transferu danych (HSPA+) lub co gorsze, konto użytkownika bez pakietu.
 
 ## TO DO:
   Appka..
 
-##Wstep
-  Dlaczego pisze ta prace?
+##Wstęp
+  Dlaczego pisze tą pracę?
   
-  ~~Bo musze~~ Jestem jednym z tych uzytkownikow dla ktorych tworze ta aplikacje.
+  ~~Bo muszę~~ Jestem jednym z tych użytkowników dla których tworzę tą aplikację.
 
 ##Bibliografia:
   ~~nah~~
+ę ą ć ó ł
