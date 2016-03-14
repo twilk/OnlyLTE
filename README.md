@@ -10,7 +10,7 @@
   Appka..
 
 ##Wstęp
-  Dlaczego pisze tą pracę?
+  Dlaczego piszę tą pracę?
   
   ~~Bo muszę~~ Jestem jednym z tych użytkowników dla których tworzę tą aplikację.
 
