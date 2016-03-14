@@ -11,6 +11,7 @@
 
 ##Wstep
   Dlaczego pisze ta prace?
+  
   ~~Bo musze~~ Jestem jednym z tych uzytkownikow dla ktorych tworze ta aplikacje.
 
 ##Bibliografia:
